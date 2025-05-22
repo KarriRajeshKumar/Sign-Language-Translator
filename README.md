@@ -1,10 +1,11 @@
-![image](https://github.com/user-attachments/assets/034f2dae-e9b0-4cf8-be44-3b0cd5e9abd9)# 🤟 Sign Language to Text and Speech Conversion
+# 🤟 Sign Language to Text and Speech Conversion
 
 A machine learning-powered project that converts American Sign Language (ASL) gestures into real-time text and speech using computer vision and gesture recognition.
 
 ## 📌 Overview
 This project recognizes ASL alphabets, digits, and special gestures (space, full stop) from a webcam feed and translates them into text, which is then spoken aloud using text-to-speech (TTS). It's designed to help improve accessibility and bridge communication gaps.
 
+![asl](https://github.com/user-attachments/assets/0d7e21b0-fe97-4649-93ef-dacecf0aae21)
 
 ## 🎯 Features
 
