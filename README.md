@@ -32,7 +32,9 @@ Ensure your webcam is connected
 python main.py
 
 
-📂 Project Structure
+## 📂 Project Structure
+
+```plaintext
 ├── collectImgs.py         # Capture gesture images
 ├── createDataset.py       # Process and extract features
 ├── trainClassifier.py     # Train Random Forest model
@@ -41,6 +43,7 @@ python main.py
 ├── requirements.txt       # Python dependencies
 ├── LICENSE
 └── README.md
+
 
 🔮 Future Improvements
 Improve accuracy with deep learning models (e.g., CNNs)
