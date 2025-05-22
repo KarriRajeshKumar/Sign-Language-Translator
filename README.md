@@ -23,11 +23,29 @@ This project recognizes ASL alphabets, digits, and special gestures (space, full
 
 ### 1. Clone the Repository
 git clone https://github.com/Praveen1425/Sign-Language-Translation.git
+
 cd Sign-Language-Translation
-
-2. Install Requirements
+### 2. Install Requirements
 pip install -r requirements.txt
-
-3. Run the Application
+### 3. Run the Application
 Ensure your webcam is connected
 python main.py
+
+
+📂 Project Structure
+├── collectImgs.py         # Capture gesture images
+├── createDataset.py       # Process and extract features
+├── trainClassifier.py     # Train Random Forest model
+├── main.py                # Real-time recognition and speech
+├── model.p                # Pre-trained model
+├── requirements.txt       # Python dependencies
+├── LICENSE
+└── README.md
+
+🔮 Future Improvements
+Improve accuracy with deep learning models (e.g., CNNs)
+Build a mobile/web version
+
+🙌 Acknowledgments
+Inspired by open-source contributions in the accessibility and ML community.
+
