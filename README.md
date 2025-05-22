@@ -5,8 +5,6 @@ A machine learning-powered project that converts American Sign Language (ASL) ge
 ## 📌 Overview
 This project recognizes ASL alphabets, digits, and special gestures (space, full stop) from a webcam feed and translates them into text, which is then spoken aloud using text-to-speech (TTS). It's designed to help improve accessibility and bridge communication gaps.
 
-![Uploading asl.png…]()
-
 
 ## 🎯 Features
 
