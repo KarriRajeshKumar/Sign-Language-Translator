@@ -5,6 +5,7 @@ A machine learning-powered project that converts American Sign Language (ASL) ge
 ## 📌 Overview
 This project recognizes ASL alphabets, digits, and special gestures (space, full stop) from a webcam feed and translates them into text, which is then spoken aloud using text-to-speech (TTS). It's designed to help improve accessibility and bridge communication gaps.
 
+
 ![asl](https://github.com/user-attachments/assets/0d7e21b0-fe97-4649-93ef-dacecf0aae21)
 
 ## 🎯 Features
@@ -31,10 +32,12 @@ cd Sign-Language-Translation
 pip install -r requirements.txt
 ### 3. Run the Application
 Ensure your webcam is connected
+
 python main.py
 
 ### 🔮 Future Improvements
 Improve accuracy with deep learning models (e.g., CNNs)
+
 Build a mobile/web version
 ### 🙌 Acknowledgments
 Inspired by open-source contributions in the accessibility and ML community.
