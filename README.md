@@ -31,6 +31,12 @@ pip install -r requirements.txt
 Ensure your webcam is connected
 python main.py
 
+### 🔮 Future Improvements
+Improve accuracy with deep learning models (e.g., CNNs)
+Build a mobile/web version
+### 🙌 Acknowledgments
+Inspired by open-source contributions in the accessibility and ML community.
+
 
 ## 📂 Project Structure
 
@@ -44,11 +50,4 @@ python main.py
 ├── LICENSE
 └── README.md
 
-
-🔮 Future Improvements
-Improve accuracy with deep learning models (e.g., CNNs)
-Build a mobile/web version
-
-🙌 Acknowledgments
-Inspired by open-source contributions in the accessibility and ML community.
 
