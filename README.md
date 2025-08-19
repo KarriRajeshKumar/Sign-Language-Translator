@@ -25,7 +25,7 @@ This project recognizes ASL alphabets, digits, and special gestures (space, full
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/Praveen1425/Sign-Language-Translation.git
+git clone https://github.com/KarriRajeshKumar/Sign-Language-Translator.git
 
 cd Sign-Language-Translation
 ### 2. Install Requirements
